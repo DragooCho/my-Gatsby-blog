@@ -102,4 +102,5 @@ module.exports = {
     `gatsby-plugin-lodash`,
     `gatsby-plugin-sitemap`,
   ],
+  pathPrefix: '/repodragoocho',
 }
