@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `BeeB starter`,
   description: `Blog posted about ...`,
   author: `[Your Name]`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
@@ -26,5 +26,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: '', // Add your google analytics tranking ID
+  ga: '112084269', // Add your google analytics tranking ID
 }
