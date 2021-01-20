@@ -16,15 +16,16 @@ lang: 'en'
 ##  👨‍💻 개인 프로젝트 경력
 
 ![ex_screenshot](./img/reactTodo.png)
+ - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">**GitHub 주소링크**</a> 
 ### 리액트 투투 리스트 어플리케이션
 - 기술 스택
           - ES6+, React, Sass, Node.js, GitHub
 - 설명
     - JavaScript로 구현했던 프로젝트를 React.js로 다시 프로그래밍 했던 작업물입니다. React.js의 컴포넌트의 활용법 기초개념과 Node.js의 여러 패키지들을 경험하고 활용하는 감각을 쌓는데 많은 도움이 많이 되었습니다. 이전의 바닐라 자바스크립트로 프로그래밍 했던 To-do List의 미흠했던 기능을 보안하고 좀 더 스타일링 있게 바꾼 반면에 리액트에서 로컬스토리지의 기능을 전부 구현 못한것이 아쉬운 결과물입니다. 
- - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">**GitHub 주소링크**</a> 
 
 ![ex_screenshot](./img/wetube.png)
-### 코코아톡 웹 어플리케이션
+### 위튜브 웹 어플리케이션
+ - <a href="https://thawing-bayou-05092.herokuapp.com/" target="_blank">**heroku에 배포된 주소링크**</a> 
 - 기술 스택
           - HTML, CSS, JavaScript, GitHub
 - 설명
@@ -32,7 +33,6 @@ lang: 'en'
     - node.JS 에 베이스를 둔 database, Server 외 벡엔드의 개념을 익히기 위해 프로젝트였으나 생소한 개념에 이해하기 힘든 적이 자주 있었고 지금도 이 사이트 구현에 대한 연구는 계속 진행중입니다.
     - 개인적으로 과제을 구현하면서 가장 당혹스럽게 한 것은 그저 배운대로 코드를 진득하게 짰는데도 불구하고 중간에 여러 오류을 만나는 것 이었습니다. 오타로 인한 건 이해하지만 그 외에 생기는 여러 오류가 왜 자주 발생하는지 이해를 못했었는데 package.json에 명시된 모듈(앱)들의 버전이 맞지 않는다든지, 앱의 정책이나 성격이 달라져서 노드늘 추가로 넣어준다든지, 로컬에서는 문제없던 동영상 재생시간이 헤로쿠에 푸시한 사이트에서는 작동을 안 하던지 등 여러 오류가 생겼으며 해결이 아직 안 된 오류도 있습니다.
     - 결과적으로 이 과제물을 제작하면서 저에게는 문제해결능력을 성장시킨 원동력이 됐지만 동시에 node.JS 과 벡엔드에 대해 모르는 개념이 여전히 많다는걸 실감했고 그런 경험을 바탕으로 자바스크립트의 개념을 더욱 숙련 시켜야겠다는 개인적인 숙제을 남겼습니다. 
- - <a href="https://thawing-bayou-05092.herokuapp.com/" target="_blank">**heroku에 배포된 주소링크**</a> 
 
 ![ex_screenshot](./img/todo.gif)
 ### JavaScript 투투 리스트 어플리케이션
@@ -43,7 +43,7 @@ lang: 'en'
  - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">**GitHub 주소링크**</a> 
 
 ![ex_screenshot](./img/kokoatok.gif)
-### JavaScript 투투 리스트 어플리케이션
+### JavaScript 코코아톡 웹 어플리케이션
 - 기술 스택
           - ES6+, HTML, CSS, GitHub
 - 설명
