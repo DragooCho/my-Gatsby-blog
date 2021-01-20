@@ -15,7 +15,7 @@ lang: 'en'
 
 ##  👨‍💻 개인 프로젝트 경력
 
-![ex_screenshot](../../img/reactTodo.png)
+![ex_screenshot](./img/reactTodo.png)
 ### 리액트 투투 리스트 어플리케이션
 - 기술 스택
           - ES6+, React, Sass, Node.js, GitHub
@@ -23,7 +23,7 @@ lang: 'en'
     - JavaScript로 구현했던 프로젝트를 React.js로 다시 프로그래밍 했던 작업물입니다. React.js의 컴포넌트의 활용법 기초개념과 Node.js의 여러 패키지들을 경험하고 활용하는 감각을 쌓는데 많은 도움이 많이 되었습니다. 이전의 바닐라 자바스크립트로 프로그래밍 했던 To-do List의 미흠했던 기능을 보안하고 좀 더 스타일링 있게 바꾼 반면에 리액트에서 로컬스토리지의 기능을 전부 구현 못한것이 아쉬운 결과물입니다. 
  - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">**GitHub 주소링크**</a> 
 
-![ex_screenshot](../../img/wetube.png)
+![ex_screenshot](./img/wetube.png)
 ### 코코아톡 웹 어플리케이션
 - 기술 스택
           - HTML, CSS, JavaScript, GitHub
@@ -34,7 +34,7 @@ lang: 'en'
     - 결과적으로 이 과제물을 제작하면서 저에게는 문제해결능력을 성장시킨 원동력이 됐지만 동시에 node.JS 과 벡엔드에 대해 모르는 개념이 여전히 많다는걸 실감했고 그런 경험을 바탕으로 자바스크립트의 개념을 더욱 숙련 시켜야겠다는 개인적인 숙제을 남겼습니다. 
  - <a href="https://thawing-bayou-05092.herokuapp.com/" target="_blank">**heroku에 배포된 주소링크**</a> 
 
-![ex_screenshot](../../img/todo.gif)
+![ex_screenshot](./img/todo.gif)
 ### JavaScript 투투 리스트 어플리케이션
 - 기술 스택
           - ES6+, HTML, CSS, GitHub
@@ -42,7 +42,7 @@ lang: 'en'
     To-do List 클론코딩입니다. 순수 자바스크립트의 기초개념을 쌓는 데 도움이 많이 되었습니다. 다만 좀 더 보기 좋고 (페이지 창을 넓히면 사진이 늘어나는 문제점) 사용성이 좋게 만들어야 한다는 숙제를 남겼습니다. 현재는 문제의 배경이미지를 수정하였습니다.
  - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">**GitHub 주소링크**</a> 
 
-![ex_screenshot](../../img/kokoatok.gif)
+![ex_screenshot](./img/kokoatok.gif)
 ### JavaScript 투투 리스트 어플리케이션
 - 기술 스택
           - ES6+, HTML, CSS, GitHub
