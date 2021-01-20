@@ -13,11 +13,11 @@ lang: 'en'
 개발자로서 실력향상에 될만한 소재가 있다면 항상 참고하고 적용하려고 노력합니다. 
 최근에는 gatsby같은 React 프레임워크에 관심이 많습니다.
 
-##  👨‍💻 개인 프로젝트 경력
+## 👨‍💻 개인 프로젝트 경력
 
 ![ex_screenshot](./img/reactTodo.png)
- - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">**GitHub 주소링크**</a> 
 ### 리액트 투투 리스트 어플리케이션
+ - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">**GitHub 주소링크**</a> 
 - 기술 스택
           - ES6+, React, Sass, Node.js, GitHub
 - 설명
@@ -36,23 +36,23 @@ lang: 'en'
 
 ![ex_screenshot](./img/todo.gif)
 ### JavaScript 투투 리스트 어플리케이션
+ - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">**GitHub 주소링크**</a> 
 - 기술 스택
           - ES6+, HTML, CSS, GitHub
 - 설명
     To-do List 클론코딩입니다. 순수 자바스크립트의 기초개념을 쌓는 데 도움이 많이 되었습니다. 다만 좀 더 보기 좋고 (페이지 창을 넓히면 사진이 늘어나는 문제점) 사용성이 좋게 만들어야 한다는 숙제를 남겼습니다. 현재는 문제의 배경이미지를 수정하였습니다.
- - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">**GitHub 주소링크**</a> 
 
 ![ex_screenshot](./img/kokoatok.gif)
 ### JavaScript 코코아톡 웹 어플리케이션
+ - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">**GitHub 주소링크**</a> 
 - 기술 스택
           - ES6+, HTML, CSS, GitHub
 - 설명
-    프로그래밍 입문하면서 시작한 첫 프로젝트로서
-    카카오톡의 웹 디자인을 참조하고 프론트엔드까지 구현한 과제물입니다.
-    여러 첼린지 과제물과 이 과제물을 만들면서 html, CSS 개념을 익히고
-    깃허브를 통한 커밋과 배포를 경험하면서
-    홈페이지 구현에 좀 더 자신감이 생기는 계기가 되었습니다.
- - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">**GitHub 주소링크**</a> 
+    - 프로그래밍 입문하면서 시작한 첫 프로젝트로서
+    - 카카오톡의 웹 디자인을 참조하고 프론트엔드까지 구현한 과제물입니다.
+    - 여러 첼린지 과제물과 이 과제물을 만들면서 html, CSS 개념을 익히고
+    - 깃허브를 통한 커밋과 배포를 경험하면서
+    - 홈페이지 구현에 좀 더 자신감이 생기는 계기가 되었습니다.
     
 ## 🎓 관련학력
 
