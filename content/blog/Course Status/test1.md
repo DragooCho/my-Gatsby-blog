@@ -7,7 +7,7 @@ draft: false
 
 ![](./images/oneImg.png)
 
-[inflearn](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%ED%86%B5%ED%95%A9%ED%8E%B8#, "inflearn link")
+[비전공자를 위한 개발자 취업 올인원 가이드 [통합편]](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%97%85-%ED%86%B5%ED%95%A9%ED%8E%B8#, "inflearn link")
 
 며칠전 인프런 홈패이지에 있는 "비전공자를 위한 개발자 취업 올인원 가이드 [통합편]"
 이란 강의가 나왔다는 이메일 알람을 받았습니다.
