@@ -46,7 +46,7 @@ lang: 'en'
 
 
 ![ex_screenshot](./img/kokoatok.gif)
-### JavaScript 코코아톡 웹 어플리케이션
+### 코코아톡 웹 어플리케이션
  - <a href="https://dragoocho.github.io/kakao-clone-v2/index/" target="_blank">**GitHub 주소링크**</a> 
 - 기술 스택
           - ES6+, HTML, CSS, GitHub
