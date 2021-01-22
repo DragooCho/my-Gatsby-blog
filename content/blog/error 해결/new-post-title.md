@@ -19,4 +19,4 @@ node-sass의 scripts/install.js를 실행을 못 한거였습니다.
 $ node node_modules/node-sass/scripts/install.js
 ````````````````
 
-[출처: https://wonism.github.io/node-sass-vendor/ ](https://wonism.github.io/node-sass-vendor, "wonism.github.io")
+[출처: https://wonism.github.io/node-sass-vendor/ ](https://wonism.github.io/node-sass-vendor "wonism.github.io")
