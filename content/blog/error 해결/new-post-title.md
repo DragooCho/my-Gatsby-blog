@@ -15,6 +15,7 @@ node-sass의 scripts/install.js를 실행을 못 한거였습니다.
 
 저의 경우에는 수동으로 node-sass의 스크립트를 실행하는걸로 해결 할 수 있었습니다.
 
+
 ```````````````
 $ node node_modules/node-sass/scripts/install.js
 ````````````````
