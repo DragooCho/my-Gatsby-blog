@@ -28,7 +28,7 @@ lang: 'en'
 ### 위튜브 웹 어플리케이션
  - <a href="https://thawing-bayou-05092.herokuapp.com/" target="_blank">**heroku에 배포된 주소링크**</a> 
 - 기술 스택
-          - HTML, CSS, JavaScript, GitHub
+          - HTML, CSS, ES6+, Sass, GitHub
 - 설명
     - heroku에 배포해서 구현한 홈페이지라 처음 접속하면 사이트가 깨어나는데 최대 30초 ~ 1분 정도의 시간이 걸립니다.
     - node.JS 에 베이스를 둔 database, Server 외 벡엔드의 개념을 익히기 위해 프로젝트였으나 생소한 개념에 이해하기 힘든 적이 자주 있었고 지금도 이 사이트 구현에 대한 연구는 계속 진행중입니다.
@@ -49,7 +49,7 @@ lang: 'en'
 ### 코코아톡 웹 어플리케이션
  - <a href="https://dragoocho.github.io/kakao-clone-v2/index/" target="_blank">**GitHub 주소링크**</a> 
 - 기술 스택
-          - ES6+, HTML, CSS, GitHub
+          - HTML, CSS, GitHub
 - 설명
     - 프로그래밍 입문하면서 시작한 첫 프로젝트로서
     - 카카오톡의 웹 디자인을 참조하고 프론트엔드까지 구현한 과제물입니다.
