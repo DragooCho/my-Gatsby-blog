@@ -18,8 +18,8 @@ lang: 'en'
 ![ex_screenshot](./img/reactTodo.png)
 ### 리액트 투투 리스트 어플리케이션
  - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">**GitHub 주소링크**</a> 
-- 기술 스택
-          - ES6+, React, Sass, Node.js, GitHub
+- 주요 기술 스택
+          - ES6+, React Node.js
 - 설명
     - JavaScript로 구현했던 프로젝트를 React.js로 다시 프로그래밍 했던 작업물입니다. React.js의 컴포넌트의 활용법 기초개념과 Node.js의 여러 패키지들을 경험하고 활용하는 감각을 쌓는데 많은 도움이 많이 되었습니다. 이전의 바닐라 자바스크립트로 프로그래밍 했던 To-do List의 미흠했던 기능을 보안하고 좀 더 스타일링 있게 바꾼 반면에 리액트에서 로컬스토리지의 기능을 전부 구현 못한것이 아쉬운 결과물입니다. 
 
@@ -27,8 +27,8 @@ lang: 'en'
 ![ex_screenshot](./img/wetube.png)
 ### 위튜브 웹 어플리케이션
  - <a href="https://thawing-bayou-05092.herokuapp.com/" target="_blank">**heroku에 배포된 주소링크**</a> 
-- 기술 스택
-          - HTML, CSS, ES6+, Sass, GitHub
+- 주요 기술 스택
+          - ES6+, Node.js
 - 설명
     - heroku에 배포해서 구현한 홈페이지라 처음 접속하면 사이트가 깨어나는데 최대 30초 ~ 1분 정도의 시간이 걸립니다.
     - node.JS 에 베이스를 둔 database, Server 외 벡엔드의 개념을 익히기 위해 프로젝트였으나 생소한 개념에 이해하기 힘든 적이 자주 있었고 지금도 이 사이트 구현에 대한 연구는 계속 진행중입니다.
@@ -39,8 +39,8 @@ lang: 'en'
 ![ex_screenshot](./img/todo.gif)
 ### JavaScript 투투 리스트 어플리케이션
  - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">**GitHub 주소링크**</a> 
-- 기술 스택
-          - ES6+, HTML, CSS, GitHub
+- 주요 기술 스택
+          - ES6+
 - 설명
     To-do List 클론코딩입니다. 순수 자바스크립트의 기초개념을 쌓는 데 도움이 많이 되었습니다. 다만 좀 더 보기 좋고 (페이지 창을 넓히면 사진이 늘어나는 문제점) 사용성이 좋게 만들어야 한다는 숙제를 남겼습니다. 현재는 문제의 배경이미지를 수정하였습니다.
 
