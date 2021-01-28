@@ -17,8 +17,8 @@ lang: 'en'
 
 ![ex_screenshot](./img/reactTodo.png)
 ### 리액트 투투 리스트 어플리케이션
- - <a href="https://github.com/DragooCho/react_todo_list" target="_blank">**(https://github.com/DragooCho/react_todo_list)**</a> 
- - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">**배포된 홈페이지 주소**</a> 
+ - <a href="https://github.com/DragooCho/react_todo_list" target="_blank">GitHub 링크</a> 
+ - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">배포된 홈페이지 주소</a> 
 - 주요 기술 스택
           - ES6+, React Node.js
 - 설명
@@ -27,8 +27,8 @@ lang: 'en'
 
 ![ex_screenshot](./img/wetube.png)
 ### 위튜브 웹 어플리케이션
- - <a href="https://github.com/DragooCho/wetube_new" target="_blank">**GitHub 링크 **</a> 
- - <a href="https://thawing-bayou-05092.herokuapp.com/" target="_blank">**heroku에 배포된 위튜브 홈페이지 주소 **</a> 
+ - <a href="https://github.com/DragooCho/wetube_new" target="_blank">GitHub 링크</a> 
+ - <a href="https://thawing-bayou-05092.herokuapp.com/" target="_blank">heroku에 배포된 위튜브 홈페이지 주소</a> 
 - 주요 기술 스택
           - ES6+, Node.js
 - 설명
@@ -40,8 +40,8 @@ lang: 'en'
 
 ![ex_screenshot](./img/todo.gif)
 ### JavaScript 투투 리스트 어플리케이션
- - <a href="https://github.com/DragooCho/momentom-project-js" target="_blank">**GitHub 링크 **</a> 
- - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">**투투 리스트 홈페이지 주소**</a> 
+ - <a href="https://github.com/DragooCho/momentom-project-js" target="_blank">GitHub 링크</a> 
+ - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">투두 리스트 홈페이지 주소</a> 
 - 주요 기술 스택
           - ES6+
 - 설명
@@ -50,7 +50,7 @@ lang: 'en'
 
 ![ex_screenshot](./img/kokoatok.gif)
 ### 코코아톡 웹 어플리케이션
- - <a href="https://github.com/DragooCho/kakao-clone-v2" target="_blank">**GitHub 링크 **</a> 
+ - <a href="https://github.com/DragooCho/kakao-clone-v2" target="_blank">GitHub 링크</a> 
  - <a href="https://dragoocho.github.io/kakao-clone-v2/index/" target="_blank">**코코아톡 홈페이지 주소**</a> 
 - 주요 기술 스택
           - HTML, CSS, GitHub
