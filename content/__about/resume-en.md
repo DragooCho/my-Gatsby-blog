@@ -17,8 +17,8 @@ lang: 'en'
 
 ![ex_screenshot](./img/reactTodo.png)
 ### 리액트 투투 리스트 어플리케이션
- - <a href="https://github.com/DragooCho/react_todo_list" target="_blank">**[Qovhehls](https://github.com/DragooCho/react_todo_list)**</a> 
- - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">**GitHub 주소링크**</a> 
+ - <a href="https://github.com/DragooCho/react_todo_list" target="_blank">**(https://github.com/DragooCho/react_todo_list)**</a> 
+ - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">**배포된 홈페이지 주소**</a> 
 - 주요 기술 스택
           - ES6+, React Node.js
 - 설명
@@ -27,7 +27,8 @@ lang: 'en'
 
 ![ex_screenshot](./img/wetube.png)
 ### 위튜브 웹 어플리케이션
- - <a href="https://thawing-bayou-05092.herokuapp.com/" target="_blank">**heroku에 배포된 주소링크**</a> 
+ - <a href="https://github.com/DragooCho/wetube_new" target="_blank">**GitHub 링크 **</a> 
+ - <a href="https://thawing-bayou-05092.herokuapp.com/" target="_blank">**heroku에 배포된 위튜브 홈페이지 주소 **</a> 
 - 주요 기술 스택
           - ES6+, Node.js
 - 설명
@@ -39,17 +40,19 @@ lang: 'en'
 
 ![ex_screenshot](./img/todo.gif)
 ### JavaScript 투투 리스트 어플리케이션
- - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">**GitHub 주소링크**</a> 
+ - <a href="https://github.com/DragooCho/momentom-project-js" target="_blank">**GitHub 링크 **</a> 
+ - <a href="https://dragoocho.github.io/momentom-project-js/" target="_blank">**투투 리스트 홈페이지 주소**</a> 
 - 주요 기술 스택
           - ES6+
 - 설명
-    To-do List 클론코딩입니다. 순수 자바스크립트의 기초개념을 쌓는 데 도움이 많이 되었습니다. 다만 좀 더 보기 좋고 (페이지 창을 넓히면 사진이 늘어나는 문제점) 사용성이 좋게 만들어야 한다는 숙제를 남겼습니다. 현재는 문제의 배경이미지를 수정하였습니다.
+    To-do List 클론코딩입니다. 순수 자바스크립트의 기초개념을 쌓는 데 도움이 많이 되었습니다. 다만 좀 더 보기 좋고 (페이지 창을 넓히면 사진이 늘어나는 문제점) 사용성이 좋게 만들어야 한다는 과제를 남겼습니다.최종적으로는 렌덤이미지를 구현하는 unsplash의 API를 사용중입니다.
 
 
 ![ex_screenshot](./img/kokoatok.gif)
 ### 코코아톡 웹 어플리케이션
- - <a href="https://dragoocho.github.io/kakao-clone-v2/index/" target="_blank">**GitHub 주소링크**</a> 
-- 기술 스택
+ - <a href="https://github.com/DragooCho/kakao-clone-v2" target="_blank">**GitHub 링크 **</a> 
+ - <a href="https://dragoocho.github.io/kakao-clone-v2/index/" target="_blank">**코코아톡 홈페이지 주소**</a> 
+- 주요 기술 스택
           - HTML, CSS, GitHub
 - 설명
     - 프로그래밍 입문하면서 시작한 첫 프로젝트로서
