@@ -17,6 +17,7 @@ lang: 'en'
 
 ![ex_screenshot](./img/reactTodo.png)
 ### 리액트 투투 리스트 어플리케이션
+ - <a href="https://github.com/DragooCho/react_todo_list" target="_blank">**[Qovhehls](https://github.com/DragooCho/react_todo_list)**</a> 
  - <a href="https://dragoocho.github.io/react_todo_list/" target="_blank">**GitHub 주소링크**</a> 
 - 주요 기술 스택
           - ES6+, React Node.js
