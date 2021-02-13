@@ -6,13 +6,13 @@ thumbnail: { thumbnailSrc }
 draft: false
 ---
 
-react_todo_list라는 토이 프로젝트 결과물을 코드수정 하기 위해    
+개인 프로젝트 진행중에 코드수정을 위해    
 node_modules 디렉토리를 삭제하고 다시 패키지들을 설치한뒤      
 npm start를 터미널로 실행했지만 node_modules/node-sass/vendor란 오류가 발생 했었습니다.    
     
         
 
-어떻게 구글링 하다보니 원인은 node_modules/node-sass/vendor 디렉토리가 존재하지 않아서    
+어찌저찌 구글링 하다보니 원인은 node_modules/node-sass/vendor 디렉토리가 존재하지 않아서    
 node-sass의 scripts/install.js를 실행을 못 한거였습니다.    
     
         
